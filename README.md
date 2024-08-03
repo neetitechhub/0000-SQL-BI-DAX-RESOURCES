@@ -12,9 +12,13 @@ https://www.w3schools.com/sql/
 **Practice :**
 
 https://www.sql-practice.com/
+
 https://www.w3schools.com/sql/sql_exercises.asp
+
 https://www.hackerrank.com/domains/sql
+
 https://www.codechef.com/practice/sql-case-studies-topic-wise
+
 https://sqlzoo.net/wiki/SQL_Tutorial
 
 -----------------------------------------------------------------------------------------------------------------------------
