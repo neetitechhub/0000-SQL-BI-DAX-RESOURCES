@@ -4,7 +4,9 @@
 **SQL :**
 
 https://www.youtube.com/@ankitbansal6/videos
+
 https://www.youtube.com/@AlexTheAnalyst/videos
+
 https://www.youtube.com/@techTFQ/videos
 
 https://www.w3schools.com/sql/
@@ -26,11 +28,17 @@ https://sqlzoo.net/wiki/SQL_Tutorial
 **POWER BI & DAX :**
 
 https://www.youtube.com/@SQLBI/videos
+
 https://www.youtube.com/@AnalyticswithNags/videos
+
 https://www.youtube.com/@learnwidgiggs/videos
+
 https://www.youtube.com/@GuyInACube/videos
+
 https://www.youtube.com/@SolutionsAbroad/videos
+
 https://www.youtube.com/@GoodlyChandeep/videos
 
 https://learn.microsoft.com/en-us/dax/dax-function-reference
+
 https://learn.microsoft.com/en-us/training/browse/?products=power-bi
