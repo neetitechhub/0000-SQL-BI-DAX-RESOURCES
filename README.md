@@ -47,8 +47,12 @@ https://learn.microsoft.com/en-us/training/browse/?products=power-bi
 
 https://www.youtube.com/watch?v=7fReNBz6Wh4
 
+https://www.youtube.com/watch?v=G8ikAJele_s
+
 https://www.youtube.com/watch?v=mmxVCFceQgU
 
 https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=10
 
+https://www.youtube.com/watch?v=8XoDVwWdaqI&t=2s
 
+https://www.youtube.com/watch?v=hm4Iq2Mm2pQ
